@@ -21,6 +21,6 @@ churnTour is a machine learning project aimed at predicting customer churn in th
 To get started with churnTour, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/churnTour.git
+git clone https://github.com/ashish-jha-2004/churnTour.git
 cd churnTour
 pip install -r requirements.txt
